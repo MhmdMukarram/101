@@ -42,7 +42,7 @@ else ALIVEMSG = Config.ALIVEMSG
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈 𝐀𝐌 𝐎𝐍𝐋𝐈𝐍𝐄 𝐍𝐎𝐖 💓/n/n 🎁𝐎𝐰𝐧𝐞𝐫 :- 𝐃𝐈𝐍𝐔𝐊𝐀 /n/n 🎁𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧 :- 𝐃𝐈𝐍𝐔𝐊𝐀 /n/n 💝 𝐁𝐋𝐀𝐂𝐊𝐑𝐈𝐂𝐎 𝐁𝐔𝐓𝐓𝐎𝐍 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 💝 /n/n 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐎𝐧 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 :- wa.me/+94×××××"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "🅗︎🅘︎ Ⓣ︎Ⓗ︎Ⓔ︎Ⓡ︎Ⓔ︎ 🅘︎'🅜︎ Ⓐ︎Ⓛ︎Ⓘ︎Ⓥ︎Ⓔ︎ 🅝︎🅞︎🅦︎😇/n/n ⚜️𝐎𝐰𝐧𝐞𝐫 :- ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎ /n/n 𝐑𝐞𝐝 𝐀𝐥𝐩𝐡𝐚 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 𝐋𝐢𝐧𝐤👇 /n/n https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j /n/n 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐎𝐧 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 :- https://wa.me/94740979220"})
 
 var BUTTHANDLE = '';
     if (/\[(\W*)\]/.test(Config.HANDLERS)) {
