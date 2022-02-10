@@ -10,12 +10,12 @@ Cyber Queen bot - NICO
 const Asena = require('../events');
 const {MessageType} = require('@adiwajshing/baileys');
 const Config = require('../config');
-const cyber = ('Cyber Queen Github Link');
-const AAA = ('CYBER QUEEN WA BOT LINKS')
-const AAB = "🅒🅨🅑🅔🅡 🅠🅤🅔🅔🅝 links,"
-const AAC = "💃♥️\n᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ\n\nɢɪᴛʜᴜʙ ʟɪɴᴋ:\nhttps://github.com/SLTechnicalTips/CyberQueen\n\nɪɴꜱᴛᴀʟʟ ʙᴏᴛ:\nhttps://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen\n\nǫʀ ᴄᴏᴅᴇ ʟɪɴᴋ:\nhttps://replit.com/@NICONico6/CyberQueen-QR\n\nᴄᴏᴘʏʀɪɢʜᴛ © | ᴄʏʙᴇʀ ǫᴜᴇᴇɴ\n↝↢↤⟲⟲⟲⤛⤛⤜⤜⟳⟳⟳↦↣↜"
+const cyber = ('Chintu Bot Github Link');
+const AAA = ('CHINTU WA BOT LINKS')
+const AAB = "🅒︎🅗︎🅘︎🅝︎🅣︎🅤︎ 🅑︎🅞︎🅣︎ links,"
+const AAC = "💃♥️\n𝐈 𝐚𝐦 ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ\n\nɢɪᴛʜᴜʙ ʟɪɴᴋ:\nhttps://github.com/MhmdMukarram/CHINTU-101\n\nɪɴꜱᴛᴀʟʟ ʙᴏᴛ:\nhttps://heroku.com/deploy?template=https://github.com/MhmdMukarram/CHINTU-101\n\nǫʀ ᴄᴏᴅᴇ ʟɪɴᴋ:\nhttps://replit.com/@MhmdMukarram1/Chintu101-QR\n\nᴄᴏᴘʏʀɪɢʜᴛ © | ᶜᴴᴵᴺᵀᵁ ᴮᴼᵀ"
 Asena.addCommand({pattern: 'git', fromMe: true, delowndinukacmd: false, desc: AAB,}, (async (message, match) => {
 
-  var msg = await message.reply('CYBER QUEEN GITHUB LINK');
+  var msg = await message.reply('CHINTU BOT GITHUB LINK');
                                      
   }));
