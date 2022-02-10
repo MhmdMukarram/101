@@ -12,7 +12,7 @@ const Config = require('../config');
 const cyber = ('Cyber Queen Version 🛠️');
 const AAA = ('Check Cyber Queen Version 🛠️')
 const AAB = "🅒🅨🅑🅔🅡 🅠🅤🅔🅔🅝 🅖🅘🅣🅗🅤🅑 🅛🅘🅝🅚 එක ඉහත ඇත,"
-const AAC = "*᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬*\n\n```Installed version 🔗:```\n3.0v - Beta Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen"
+const AAC = "*𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬*\n\n```Installed version 🔗:```\n3.0v - Beta Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT"
 Asena.addCommand({pattern: 'version', fromMe: true, delowndinukacmd: false, desc: AAA,}, (async (message, match) => {
 
   var msg = await message.reply('CYBER QUEEN Version 👇');
@@ -36,7 +36,7 @@ Asena.addCommand({pattern: 'version', fromMe: true, deleteCommand: true, desc: M
 
     var r_text = new Array ();
 
-    r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+    r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
 
     var i = Math.floor(2*Math.random())
 
@@ -50,7 +50,7 @@ Asena.addCommand({pattern: 'cqversion', fromMe: true, deleteCommand: true, desc:
 
         var r_text = new Array ();
     
-        r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+        r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
       
     
         var i = Math.floor(2*Math.random())
@@ -68,7 +68,7 @@ Asena.addCommand({pattern: 'cqversion', fromMe: true, deleteCommand: true, desc:
         
             var r_text = new Array ();
         
-            r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+            r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
         
             var i = Math.floor(2*Math.random())
         
@@ -82,7 +82,7 @@ Asena.addCommand({pattern: 'cqversion', fromMe: true, deleteCommand: true, desc:
         
                 var r_text = new Array ();
             
-                r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+                r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
             
                 var i = Math.floor(2*Math.random())
             
@@ -94,7 +94,7 @@ Asena.addCommand({pattern: 'cqversion', fromMe: true, deleteCommand: true, desc:
         
                     var r_text = new Array ();
                 
-                    r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+                    r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
                     
                 
                     var i = Math.floor(2*Math.random())
@@ -109,7 +109,7 @@ Asena.addCommand({pattern: 'cqversion', fromMe: true, deleteCommand: true, desc:
                 
                         var r_text = new Array ();
                     
-                        r_text[1] = "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/SLTechnicalTips/CyberQueen";
+                        r_text[1] = "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Version 🧬\n\nInstalled version 🔗:\n3.8.4v - Public Edition\n\nCheck official github : https://github.com/MhmdMukarram/CHINTU-BOT";
                     
                         var i = Math.floor(2*Math.random())
                     
