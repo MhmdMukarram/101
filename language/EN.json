@@ -72,8 +72,8 @@
             "MUST_TEXT": "```කරුණාකර ඕනෑම පණිවිඩයකට tag දෙන්න```"
         },
         "heroku": {
-            "RESTART_DESC": "᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ නැවත ආරම්භ කරන්න",
-            "RESTART_MSG": "```♻️᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴜᴇᴇɴᬐ Restarting...```",
+            "RESTART_DESC": "𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 නැවත ආරම්භ කරන්න",
+            "RESTART_MSG": "```♻𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 Restarting...```",
             "SHUTDOWN_DESC": "Shutdown",
             "SHUTDOWN_MSG": "```වසා දමයි ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
@@ -220,7 +220,7 @@
             "INVALID_HEROKU": "*❌ ඔබේ HEROKU_API_KEY තොරතුරු වැරදිය! https://dashboard.heroku.com/account මෙම link ක්ලික් කරන්න. API key සඳහා පහළට scroll කරන්න. ඉන්පසු Reveal බොත්තම ක්ලික් කරන්න. එම API key copy කර Heroku config vars හිස් කොටුව paste කරන්න.*",
             "UPDATED": "*✅ Successfully Updated!*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*💬 ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ ස්වයංක්‍රීයව නැවත ආරම්භ කරමින්!*"
+            "AFTER_UPDATE": "*💬 𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 ස්වයංක්‍රීයව නැවත ආරම්භ කරමින්!*"
         },
         "weather": {
             "WEATHER_DESC": "කාලගුණය පෙන්වයි.",
