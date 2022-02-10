@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/qwertyuiopasdfghjklzxcvbnmqq/lep /root/CyberQueen
+RUN git clone https://github.com/MhmdMukarram/101 /root/CyberQueen
 WORKDIR /root/CyberQueen/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
