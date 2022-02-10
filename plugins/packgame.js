@@ -26,52 +26,52 @@ Asena.addCommand({pattern: 'gpack', fromMe: true, desc: Lang.TET_DESC}, (async (
 
     await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*━━━━━Gaming Logo Pack━━━━━*
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .lolcover
-🔹𝙐𝙨𝙚➜ (.lolcover CyberQueen)
+🔹𝙐𝙨𝙚➜ (.lolcover ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .warf  
-🔹𝙐𝙨𝙚➜ (.warf  CyberQueen) 
+🔹𝙐𝙨𝙚➜ (.warf  ChintuBot) 
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .avlol  
-🔹𝙐𝙨𝙚➜ (.avlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.avlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .bnlol  
-🔹𝙐𝙨𝙚➜ (.bnlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.bnlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .malol 
-🔹𝙐𝙨𝙚➜ (.malol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.malol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .wacover 
-🔹𝙐𝙨𝙚➜ (.wacover  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.wacover  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .fccover 
-🔹𝙐𝙨𝙚➜ (.fccover  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.fccover  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .pubg 
-🔹𝙐𝙨𝙚➜ (.woodblock CyberQueen/bot)
+🔹𝙐𝙨𝙚➜ (.woodblock ChintuBot/bot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .battlefield 
-🔹𝙐𝙨𝙚➜ (.battlefield  CyberQueen/bot)
+🔹𝙐𝙨𝙚➜ (.battlefield  ChintuBot/bot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .pentakill 
-🔹𝙐𝙨𝙚➜ (.pentakill  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.pentakill  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .gavatar 
-🔹𝙐𝙨𝙚➜ (.gavatar  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.gavatar  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .coverow 
-🔹𝙐𝙨𝙚➜  (.coverow  CyberQueen)
+🔹𝙐𝙨𝙚➜  (.coverow  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .csgo 
-🔹𝙐𝙨𝙚➜ (.csgo  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.csgo  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .coverlol 
-🔹𝙐𝙨𝙚➜ (.coverlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.coverlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .warface  
-🔹𝙐𝙨𝙚➜ (.warface  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.warface  ChintuBot)
 
 *━━━━━LOGO PACK━━━*
-_*🌍ᴄᴏᴅᴇᴅ ʙʏ ꜱɪꜱᴜʟᴀ ᴡᴇʟɢᴀᴍᴀɢᴇ*_
+_*🌍ᴄᴏᴅᴇᴅ ʙʏ ʀᴇᴅ ᴀʟᴘʜᴀ*_
 `}) 
 
  }));
@@ -97,52 +97,52 @@ Asena.addCommand({pattern: 'gpack', fromMe: false, desc: Lang.TET_DESC}, (async 
 
     await message.sendMessage (Buffer.from (respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*━━━━━Gaming Logo Pack━━━━━*
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .lolcover
-🔹𝙐𝙨𝙚➜ (.lolcover CyberQueen)
+🔹𝙐𝙨𝙚➜ (.lolcover ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .warf  
-🔹𝙐𝙨𝙚➜ (.warf  CyberQueen) 
+🔹𝙐𝙨𝙚➜ (.warf  ChintuBot) 
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .avlol  
-🔹𝙐𝙨𝙚➜ (.avlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.avlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .bnlol  
-🔹𝙐𝙨𝙚➜ (.bnlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.bnlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .malol 
-🔹𝙐𝙨𝙚➜ (.malol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.malol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜*  .wacover 
-🔹𝙐𝙨𝙚➜ (.wacover  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.wacover  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .fccover 
-🔹𝙐𝙨𝙚➜ (.fccover  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.fccover  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .pubg 
-🔹𝙐𝙨𝙚➜ (.woodblock CyberQueen/bot)
+🔹𝙐𝙨𝙚➜ (.woodblock ChintuBot/bot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .battlefield 
-🔹𝙐𝙨𝙚➜ (.battlefield  CyberQueen/bot)
+🔹𝙐𝙨𝙚➜ (.battlefield  ChintuBot/bot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .pentakill 
-🔹𝙐𝙨𝙚➜ (.pentakill  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.pentakill  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .gavatar 
-🔹𝙐𝙨𝙚➜ (.gavatar  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.gavatar  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .coverow 
-🔹𝙐𝙨𝙚➜  (.coverow  CyberQueen)
+🔹𝙐𝙨𝙚➜  (.coverow  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .csgo 
-🔹𝙐𝙨𝙚➜ (.csgo  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.csgo  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .coverlol 
-🔹𝙐𝙨𝙚➜ (.coverlol  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.coverlol  ChintuBot)
 
 *⚜️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜* .warface  
-🔹𝙐𝙨𝙚➜ (.warface  CyberQueen)
+🔹𝙐𝙨𝙚➜ (.warface  ChintuBot)
 
 *━━━━━LOGO PACK━━━*
-_*🌍ᴄᴏᴅᴇᴅ ʙʏ ꜱɪꜱᴜʟᴀ ᴡᴇʟɢᴀᴍᴀɢᴇ*_
+_*🌍ᴄᴏᴅᴇᴅ ʙʏ ʀᴇᴅ ᴀʟᴘʜᴀ*_
 `}) 
 
  }));
