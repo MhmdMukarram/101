@@ -56,7 +56,7 @@ else if (Config.WORKTYPE == 'public') {
             
             var image = await axios.get (Config.ALIVE_LOGO, {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 is Alive!```\n\nᎠҽѵҽӀօքҽɾ : ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎\n\n*ᴠᴇʀꜱɪᴏɴ:* ```Version 3.8.4-Public Edition```\n\n*ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ:* https://t.me/redalphachatgroup\n\n*ᴘᴜʙʟɪᴄ ᴄᴏᴍᴍᴀɴᴅꜱ ɢʀᴏᴜᴘ:* https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j\n\n*ᴏᴡɴᴇʀ:* https://wa.me/94740979220\n\n\nᴄʜɪɴᴛᴜ ʙᴏᴛ ©  ʀᴇᴅ ᴀʟᴘʜᴀ"})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: "```𝐂𝐇𝐈𝐍𝐓𝐔 𝐁𝐎𝐓 is Alive!```\n\nᎠҽѵҽӀօքҽɾ : ༒︎𝚁𝙴𝙳 𝙰𝙻𝙿𝙷𝙰༒︎\n\n*ᴠᴇʀꜱɪᴏɴ:* ```Version 3.8.4-Public Edition```\n\n*ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ:* https://t.me/redalphachatgroup\n\n*ᴘᴜʙʟɪᴄ ᴄᴏᴍᴍᴀɴᴅꜱ ɢʀᴏᴜᴘ:* https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j\n\n*ᴏᴡɴᴇʀ:* https://wa.me/94740979220\n\n\nᴄʜɪɴᴛᴜ ʙᴏᴛ © ʀᴇᴅ ᴀʟᴘʜᴀ"})
 
     }
     else {
