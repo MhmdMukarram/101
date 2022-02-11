@@ -6,13 +6,13 @@ you may not use this file except in compliance with the License.
 */
 
 function successfullMessage(msg) {
-    return "✅ *᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ*:  ```" + msg + "```"
+    return "✅ *𝚁𝙴𝙳-𝙰𝙻𝙿𝙷𝙰*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐs*:  ```" + msg + "```"
+    return "🛑 *𝚁𝙴𝙳-𝙰𝙻𝙿𝙷𝙰s*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ*:  ```" + msg + "```"
+    return "⏺️ *𝚁𝙴𝙳-𝙰𝙻𝙿𝙷𝙰*:  ```" + msg + "```"
 }
 
 
